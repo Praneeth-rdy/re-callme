@@ -4,7 +4,7 @@ import Peer from 'simple-peer';
 
 const SocketContext = createContext();
 
-const socket = io(process.env.REACT_APP_SERVER_URI || 'https://praneeth-video-call.glitch.me/');
+const socket = io((process.env.NODE_ENV === 'development') ? process.env.REACT_APP_LOCAL_SERVER_URI : process.env.REACT_APP_PRODUCTION_SERVER_URI);
 
 // const socket = io('https://praneeth-video-call.glitch.me/');
 
