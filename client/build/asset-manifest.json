@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-video-call/static/css/main.371cd9b1.chunk.css",
+    "main.js": "/react-video-call/static/js/main.e66d1556.chunk.js",
+    "main.js.map": "/react-video-call/static/js/main.e66d1556.chunk.js.map",
+    "runtime-main.js": "/react-video-call/static/js/runtime-main.5fbeb13b.js",
+    "runtime-main.js.map": "/react-video-call/static/js/runtime-main.5fbeb13b.js.map",
+    "static/js/2.b6de33ad.chunk.js": "/react-video-call/static/js/2.b6de33ad.chunk.js",
+    "static/js/2.b6de33ad.chunk.js.map": "/react-video-call/static/js/2.b6de33ad.chunk.js.map",
+    "index.html": "/react-video-call/index.html",
+    "static/css/main.371cd9b1.chunk.css.map": "/react-video-call/static/css/main.371cd9b1.chunk.css.map",
+    "static/js/2.b6de33ad.chunk.js.LICENSE.txt": "/react-video-call/static/js/2.b6de33ad.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fbeb13b.js",
+    "static/js/2.b6de33ad.chunk.js",
+    "static/css/main.371cd9b1.chunk.css",
+    "static/js/main.e66d1556.chunk.js"
+  ]
+}
